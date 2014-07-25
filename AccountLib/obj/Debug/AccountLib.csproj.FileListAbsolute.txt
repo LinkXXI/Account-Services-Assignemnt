@@ -1,0 +1,5 @@
+C:\Users\Kevin\Documents\GitHub\Account-Services-Assignemnt\AccountLib\bin\Debug\AccountLib.dll.config
+C:\Users\Kevin\Documents\GitHub\Account-Services-Assignemnt\AccountLib\bin\Debug\AccountLib.dll
+C:\Users\Kevin\Documents\GitHub\Account-Services-Assignemnt\AccountLib\bin\Debug\AccountLib.pdb
+C:\Users\Kevin\Documents\GitHub\Account-Services-Assignemnt\AccountLib\obj\Debug\AccountLib.dll
+C:\Users\Kevin\Documents\GitHub\Account-Services-Assignemnt\AccountLib\obj\Debug\AccountLib.pdb

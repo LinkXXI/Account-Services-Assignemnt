@@ -1,0 +1,8 @@
+C:\Users\Kevin\Documents\GitHub\Account-Services-Assignemnt\AccountSvc\bin\Debug\AccountSvc.exe.config
+C:\Users\Kevin\Documents\GitHub\Account-Services-Assignemnt\AccountSvc\bin\Debug\AccountSvc.exe
+C:\Users\Kevin\Documents\GitHub\Account-Services-Assignemnt\AccountSvc\bin\Debug\AccountSvc.pdb
+C:\Users\Kevin\Documents\GitHub\Account-Services-Assignemnt\AccountSvc\bin\Debug\AccountLib.dll
+C:\Users\Kevin\Documents\GitHub\Account-Services-Assignemnt\AccountSvc\bin\Debug\AccountLib.pdb
+C:\Users\Kevin\Documents\GitHub\Account-Services-Assignemnt\AccountSvc\obj\x86\Debug\AccountSvc.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Documents\GitHub\Account-Services-Assignemnt\AccountSvc\obj\x86\Debug\AccountSvc.exe
+C:\Users\Kevin\Documents\GitHub\Account-Services-Assignemnt\AccountSvc\obj\x86\Debug\AccountSvc.pdb

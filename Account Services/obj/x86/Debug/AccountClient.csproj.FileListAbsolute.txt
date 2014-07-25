@@ -1,0 +1,11 @@
+C:\Users\Kevin\Documents\GitHub\Account-Services-Assignemnt\Account Services\bin\Debug\Account Services.exe
+C:\Users\Kevin\Documents\GitHub\Account-Services-Assignemnt\Account Services\bin\Debug\Account Services.pdb
+C:\Users\Kevin\Documents\GitHub\Account-Services-Assignemnt\Account Services\obj\x86\Debug\Account_Services.accountForm.resources
+C:\Users\Kevin\Documents\GitHub\Account-Services-Assignemnt\Account Services\obj\x86\Debug\Account_Services.Properties.Resources.resources
+C:\Users\Kevin\Documents\GitHub\Account-Services-Assignemnt\Account Services\obj\x86\Debug\AccountClient.csproj.GenerateResource.Cache
+C:\Users\Kevin\Documents\GitHub\Account-Services-Assignemnt\Account Services\obj\x86\Debug\Account Services.exe
+C:\Users\Kevin\Documents\GitHub\Account-Services-Assignemnt\Account Services\obj\x86\Debug\Account Services.pdb
+C:\Users\Kevin\Documents\GitHub\Account-Services-Assignemnt\Account Services\bin\Debug\Account Services.exe.config
+C:\Users\Kevin\Documents\GitHub\Account-Services-Assignemnt\Account Services\bin\Debug\AccountLib.dll
+C:\Users\Kevin\Documents\GitHub\Account-Services-Assignemnt\Account Services\bin\Debug\AccountLib.pdb
+C:\Users\Kevin\Documents\GitHub\Account-Services-Assignemnt\Account Services\obj\x86\Debug\AccountClient.csprojResolveAssemblyReference.cache
